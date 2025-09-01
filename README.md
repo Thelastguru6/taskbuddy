@@ -30,11 +30,10 @@ The project is designed to be clean, efficient, and production-ready.
 ```
 taskbuddy/
 │── manage.py
-│── taskbuddy/        # Project settings
+│── taskbuddy_project/        # Project settings
 │── tasks/            # Task app (CRUD + endpoints)
-│── users/            # User authentication app
 │── requirements.txt  # Dependencies
-│── .env              # Environment variables (not pushed to GitHub)
+│── .venv              # Environment variables (not pushed to GitHub)
 │── README.md         # Documentation
 ```
 
