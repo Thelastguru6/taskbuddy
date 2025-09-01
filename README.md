@@ -18,8 +18,8 @@ The project is designed to be clean, efficient, and production-ready.
 ---
 
 ## 🛠️ Tech Stack
-- Python 3.x
-- Django 5.x
+- Python 3.13.7
+- Django 5.2.5
 - Django REST Framework
 - SimpleJWT (for authentication)
 - SQLite (default, but can be switched to Postgres/MySQL in production)
