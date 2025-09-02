@@ -30,7 +30,7 @@ The project is designed to be clean, efficient, and production-ready.
 ```
 taskbuddy/
 │── manage.py
-│── taskbuddy/        # Project settings
+│── taskbuddy_project/        # Project settings
 │── tasks/            # Task app (CRUD + endpoints)
 │── users/            # User authentication app
 │── requirements.txt  # Dependencies
